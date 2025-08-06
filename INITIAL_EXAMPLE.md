@@ -73,7 +73,7 @@
 - Email notification preferences
 
 ## EXAMPLES:
-Use these patterns from the examples/ folder (based on the Oqtane module template):
+Use these patterns from the examples/basic-crud folder (based on the Oqtane module template):
 - **Client/Modules/[Owner].Module.[Module]/Index.razor** - For the main task list display with Pager component and ActionLink patterns
 - **Client/Modules/[Owner].Module.[Module]/Edit.razor** - For the task creation/editing form with validation and ModuleBase inheritance
 - **Client/Services/[Module]Service.cs** - For client-side service patterns with HTTP calls and authorization policy URLs
